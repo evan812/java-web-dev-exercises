@@ -17,5 +17,6 @@ public class SchoolPractice {
         System.out.println("Number of credits: " + name.getNumberOfCredits());
         System.out.println("GPA: " + name.getGpa());
 
+
     }
 }
